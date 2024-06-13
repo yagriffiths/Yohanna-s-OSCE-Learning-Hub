@@ -1,0 +1,44 @@
+body {background-color: #F5DAD2;}
+html, body {padding:0; margin:0; height:100%;}
+* {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h1 {color: #75A47F; background: #FCFFE0; border: 5px solid #739072; text-align: center; text-transform: uppercase; border-radius: 2cm; padding: 20px;}
+h2 {color: #739072; border: 5px solid #FCFFE0; text-align: justify; border-radius: 2cm; padding: 10px;}
+h3 {color: #739072;}
+h4 {color: #739072;}
+li {color: #75A47F; text-align: left;}
+p {color: #739072;}
+.Back {width: 30px;
+    height: 20px; position: absolute; top: 0px; left: 0px;}
+#quote {text-align: left; font-weight: bolder; font-size: 1.5em; border: 5px dotted #739072; margin-right: 150px; margin-bottom: 50px; padding: 10px; padding-top: 15px; padding-bottom: 15px;}
+a {color: #75A47F;}
+nav {float: left; width: 45%; margin-top: 20px; margin-left: 10px;}
+section {float: right; width: 45%; margin-top: 20px;}
+#mskpictureslink {text-align: center;}
+#secretimage:hover + #secret{float: right; margin-right: 0%; color: #739072;}
+#secret {float: right; margin-right: 0%; color: #F5DAD2;}
+#paragraphcentre {text-align: center;}
+header {padding: 20px;}
+#frontpageheader {padding: 20px; text-transform: uppercase; border-radius: 2cm;}
+div.img {float: left;}
+div {padding-right: 10%;}
+#footer {clear: both; text-align: center;}
+#frontpageright {padding: 20px;}
+#pinkflowerheart {border: 2px solid #75A47F; margin-left: 30px; margin-bottom: 50px;}
+.underline {text-decoration: underline; text-decoration-color: #739072;}
+img {border: 2px solid #75A47F; margin-top: 20px;}
+.linkcentre {text-align: center;}
+.testquestion {background-color: #FCFFE0; color: #739072; border: 2px solid #739072; height: 50px; padding-top: 20px; text-align: center;}
+#HXtest {position: relative; top: 50px; left: 50px; right: 50px; width: 80%;}
+textarea {width: 100%;}
+.CVStest {width: 100%; margin-bottom: 20px;}
+.testme {width: 20%;}
+.testanswers {position: relative; width: 75%}
+#CVSanswers {position: relative; width: 40%; height: 100%; float: right; font-size: 150%;}
+#cvstextarea {position: relative; width: 35%; height: 100%; float: left;} 
+#CVSexam1 {border: 2px solid #F5DAD2; float: left; width: 37%; margin-left: 20px;}
+#CVSexam2 {border: 2px solid #F5DAD2; float: right; width: 37%;}
+div#CVSexam1 h3 {color: #739072; font-weight: bold; text-decoration: underline;}
+div#CVSexam2 h3 {color: #739072; font-weight: bold; text-decoration: underline;}
+div#CVSexam2 p {border: 2px solid #739072; background-color: #FCFFE0; color: #FCFFE0; padding: 10px;}
+div#CVSexam2 p:hover {color: #739072;}
+
